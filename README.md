@@ -61,6 +61,7 @@ PBL(ProblemBasedLearning)
 # 나. 교육 내용
 
 ![제목 없음](https://github.com/user-attachments/assets/d812f4fa-e8df-4af1-b6f1-7a1e6e748228)
+![333333](https://github.com/user-attachments/assets/2c8e08b3-ac0b-4ca8-835b-afa4d4121115)
 
 # 다. 교육 세부시간표
 

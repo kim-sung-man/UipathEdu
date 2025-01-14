@@ -62,10 +62,8 @@ PBL(ProblemBasedLearning)
 
 https://github.com/kim-sung-man/UipathEdu/issues/5#issue-2786322648
 
-![제목 없음](https://github.com/user-attachments/assets/d812f4fa-e8df-4af1-b6f1-7a1e6e748228)
-
 
 # 다. 교육 세부시간표
 
-![2222222](https://github.com/user-attachments/assets/46373668-5ef1-47c3-8142-89eabe974ee5)
-![333333](https://github.com/user-attachments/assets/2c8e08b3-ac0b-4ca8-835b-afa4d4121115)
+![2](https://github.com/user-attachments/assets/59cc8730-f3e0-4cfe-a23b-589ae1fee524)
+

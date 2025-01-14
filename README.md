@@ -59,3 +59,5 @@ PBL(ProblemBasedLearning)
 -효율적인 업무 수행을 통해 해당 업무 부분 전반의 생산성 향상
 
 # 나. 교육 내용
+
+![제목 없음](https://github.com/user-attachments/assets/d812f4fa-e8df-4af1-b6f1-7a1e6e748228)

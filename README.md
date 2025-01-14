@@ -60,6 +60,8 @@ PBL(ProblemBasedLearning)
 
 # 나. 교육 내용
 
+https://github.com/kim-sung-man/UipathEdu/issues/5#issue-2786322648
+
 ![제목 없음](https://github.com/user-attachments/assets/d812f4fa-e8df-4af1-b6f1-7a1e6e748228)
 
 

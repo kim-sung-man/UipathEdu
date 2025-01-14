@@ -60,7 +60,7 @@ PBL(ProblemBasedLearning)
 
 # 나. 교육 내용
 
-https://github.com/kim-sung-man/UipathEdu/issues/5#issue-2786322648
+![그림1](https://github.com/user-attachments/assets/ce37a20a-bd74-447d-a680-869aad4dcc29)
 
 
 # 다. 교육 세부시간표

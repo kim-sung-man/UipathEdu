@@ -71,3 +71,4 @@ PBL(ProblemBasedLearning)
 | Time           | Topic                                      | Speaker                        |
 |----------------|--------------------------------------------|--------------------------------|
 | 09:00 - 09:30  | Reception - 참석 등록                      | -                              |
+| 09:30 - 10:00  | Microsoft 제품 소개                        | Microsoft Technical Specialist<br>안창주 매니저 |

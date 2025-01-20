@@ -67,8 +67,3 @@ PBL(ProblemBasedLearning)
 
 ![2](https://github.com/user-attachments/assets/59cc8730-f3e0-4cfe-a23b-589ae1fee524)
 
-## Agenda
-| Time           | Topic                                      | Speaker                        |
-|----------------|--------------------------------------------|--------------------------------|
-| 09:00 - 09:30  | Reception - 참석 등록                      | -                              |
-| 09:30 - 10:00  | Microsoft 제품 소개                        | Microsoft Technical Specialist<br>안창주 매니저 |
